@@ -1,0 +1,17 @@
+{
+  "title": "<Volundio: Surreal Sword Saga>",
+  "description": "<manga description>",
+  "artist": "Nanaki Nanao",
+  "author": "Nanaki Nanao",
+  "cover": "<mangacoverurl.jpg>",
+  "chapters": {
+    "61": {
+      "title": "Heading South",
+      "volume": "8",
+      "groups": {
+        "Big Helck Scans!": "/proxy/api/imgur/chapter/4YarlKW/"
+      },
+      "last_updated": "1747468371"
+    }
+  }
+}
