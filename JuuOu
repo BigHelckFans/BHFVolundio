@@ -1,0 +1,25 @@
+{
+  "title": "<Beast King and Medicinal Herb>",
+  "description": "Dungeons are the stuff of dreams—defeat the monsters, take their loot, and then venture into uncharted territory to discover hidden riches! Tina, an upstart adventurer with just such a dream, ends up mortally wounded while exploring a dungeon. Suddenly, the great demon known as the Beast King Garron, who was supposed to have been slain by a hero in the distant past, appears before her! Dungeon fantasy meets medical drama!",
+  "artist": "Sakano Asahi",
+  "author": "Konda Tatsukazu",
+  "cover": "<mangacoverurl.jpg>",
+  "chapters": {
+"20": {
+      "title": "Dungeon Affairs Division",
+      "volume": "3",
+      "groups": {
+        "Jack O'Lion": "/proxy/api/imgur/chapter/MPTFEY5/"
+      },
+      "last_updated": "1734582600"
+    }
+"33": {
+      "title": "Seeds Adrift on the Wind",
+      "volume": "5",
+      "groups": {
+        "Jack O'Lion": "/proxy/api/imgur/chapter/vBgx3Fm/"
+      },
+      "last_updated": "1750467919"
+    },
+  }
+}
